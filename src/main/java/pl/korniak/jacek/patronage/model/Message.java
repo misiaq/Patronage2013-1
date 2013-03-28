@@ -11,7 +11,7 @@ private String message;
 	}
 	
 	public void setMessage(String message) {
-		this.message = "Hello, "+message+"!";
+		this.message = message;
 	
 	}
 	
